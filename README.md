@@ -1,7 +1,7 @@
 # Ymar-A.-Linares
 Personal profile README
 
-# Hi there, I'm [Tu Nombre y Apellidos]! 👋
+# Hi there, I'm Ymar A. Linares! 👋
 
 I am an **Electronic Engineer** focused on **Embedded Systems, Firmware Development, and Hardware Implementation**. I am currently preparing to take my next professional and academic step: pursuing a Master's degree in Europe.
 
